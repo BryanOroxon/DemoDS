@@ -34,5 +34,7 @@
     <string>DemoDS</string>
     <key>XSAppIconAssets</key>
     <string>Assets.xcassets/AppIcon.appiconset</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+	<string>Finding the Address</string>
 </dict>
 </plist>
